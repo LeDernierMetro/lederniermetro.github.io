@@ -106,17 +106,17 @@
     /* color-1(#042285)
      * color-2(#042285)
      */
-    --color-1                       : hsla(240, 83%, 37%, 1);
+    --color-1                       : hsla(214, 76%, 24%, 1);
     --color-2                       : hsla(12, 89%, 39%, 1);
 
     /* theme color variations
      */
-    --color-1-lightest              : hsla(240, 83%, 77%, 1);
-    --color-1-lighter               : hsla(240, 83%, 67%, 1);
-    --color-1-light                 : hsla(240, 83%, 47%, 1);
-    --color-1-dark                  : hsla(240, 83%, 27%, 1);
-    --color-1-darker                : hsla(240, 83%, 17%, 1);
-    --color-1-darkest               : hsla(240, 83%, 7%, 1);
+    --color-1-lightest              : hsla(214, 76%, 64%, 1);
+    --color-1-lighter               : hsla(214, 76%, 54%, 1);
+    --color-1-light                 : hsla(214, 76%, 34%, 1);
+    --color-1-dark                  : hsla(214, 76%, 14%, 1);
+    --color-1-darker                : hsla(214, 76%, 4%, 1);
+    --color-1-darkest               : hsla(214, 76%, 1%, 1);
 
     --color-2-lighter               : hsla(12, 89%, 59%, 1);
     --color-2-light                 : hsla(12, 89%, 49%, 1);
