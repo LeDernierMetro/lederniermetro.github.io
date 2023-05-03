@@ -4175,7 +4175,7 @@ img.u-pull-left {
     content          : "";
     display          : block;
     width            : 100%;
-    height           : 1px;
+    height           : 100px;
     background-color : var(--color-border);
     position         : absolute;
     top              : var(--vspace-2);
