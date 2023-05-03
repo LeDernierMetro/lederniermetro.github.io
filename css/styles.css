@@ -3767,7 +3767,7 @@ img.u-pull-left {
  * -------------------------------------------------------------------- */
 .s-about__howto {
     --process-padding-left : 7.2rem;
-    --screen-block-width   : calc(400px + var(--vspace-1));
+    --screen-block-width   : calc(800px + var(--vspace-1));
     margin-top             : calc(6 * var(--space));
 }
 
