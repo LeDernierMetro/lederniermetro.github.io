@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="3000" height="3000" viewBox="-360 -360 3000 3000" xml:space="preserve">
 <desc>Created with Fabric.js 5.2.4</desc>
 <defs>
 </defs>
-<g transform="matrix(1 0 0 1 540 540)" id="38005e33-3050-48f8-9063-ffe7e249bf00"  >
-<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 1500 1500)" id="38005e33-3050-48f8-9063-ffe7e249bf00"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-1500" y="-1500" rx="0" ry="0" width="3000" height="3000" />
 </g>
-<g transform="matrix(1 0 0 1 540 540)" id="94855c6b-a472-446b-828b-d2da76ffebd2"  >
+<g transform="matrix(Infinity NaN NaN Infinity 0 0)" id="94855c6b-a472-446b-828b-d2da76ffebd2"  >
 </g>
-<g transform="matrix(1 0 0 1 540 540)"  >
+<g transform="matrix(2.78 0 0 2.78 1101.54 1251.96)"  >
 <g style="" vector-effect="non-scaling-stroke"   >
 		<g transform="matrix(1 0 0 1 204.72 -185.99)"  >
 <polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="23.86,60.79 -6.89,-85.13 -23.86,-81.6 13.82,85.13 23.86,60.79 " />
