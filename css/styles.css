@@ -3389,6 +3389,7 @@ img.u-pull-left {
     font-size        : calc(var(--text-size) * 0.8889);
     background-color : white;
     border-color     : white;
+    display          : flex;
     margin-right     : var(--vspace-1);
     margin-bottom    : 0;
 }
