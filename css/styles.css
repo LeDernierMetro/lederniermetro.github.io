@@ -3407,7 +3407,7 @@ img.u-pull-left {
 .s-intro__content-video-btn svg {
     height    : var(--vspace-1);
     width     : var(--vspace-1);
-    transform : translate(2px, 0);
+    transform : translate(0px, 0);
 }
 
 .s-intro__content-video-btn svg path {
@@ -3421,7 +3421,7 @@ img.u-pull-left {
 
 .s-intro__content-video-btn:focus svg path,
 .s-intro__content-video-btn:hover svg path {
-    fill : white;
+    fill : #ffc122;
 }
 
 /* --------------------------------------------------------------------
@@ -4497,7 +4497,7 @@ img.u-pull-left {
 }
 
 .footer__logo img {
-    width : 100px;
+    width : 200px;
 }
 
 /* --------------------------------------------------------------------
