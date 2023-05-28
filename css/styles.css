@@ -3387,8 +3387,8 @@ img.u-pull-left {
 .s-intro__content-btn {
     --btn-height     : calc(var(--vspace-btn) - 1rem);
     font-size        : calc(var(--text-size) * 0.8889);
-    background-color : white;
-    border-color     : white;
+    background-color : #ffca33;
+    border-color     : #ffca33;
     display          : flex;
     margin-right     : var(--vspace-1);
     margin-bottom    : 0;
@@ -3397,7 +3397,7 @@ img.u-pull-left {
 .s-intro__content-video-btn {
     height           : calc(1.6875 * var(--space));
     width            : calc(1.6875 * var(--space));
-    background-color : white;
+    background-color : #ffca33;
     border-radius    : 50%;
     display          : flex;
     align-items      : center;
@@ -3421,7 +3421,7 @@ img.u-pull-left {
 
 .s-intro__content-video-btn:focus svg path,
 .s-intro__content-video-btn:hover svg path {
-    fill : #ffc122;
+    fill : #ffca33;
 }
 
 /* --------------------------------------------------------------------
