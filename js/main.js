@@ -358,28 +358,6 @@
     }; // end ssMailChimpForm
 
 
-   /* video Lightbox
-    * ------------------------------------------------------ */
-    const ssVideoLightbox = function() {
-
-        const videoLink = document.querySelector('.s-intro__content-video-btn');
-        if (!videoLink) return;
-
-        videoLink.addEventListener('click', function(event) {
-
-            const vLink = this.getAttribute('href');
-            const iframe = "<iframe src='" + vLink + "' frameborder='0'></iframe>";
-
-            event.preventDefault();
-
-            const instance = basicLightbox.create(iframe);
-            instance.show()
-
-        });
-
-    }; // end ssVideoLightbox
-
-
    /* alert boxes
     * ------------------------------------------------------ */
     const ssAlertBoxes = function() {
