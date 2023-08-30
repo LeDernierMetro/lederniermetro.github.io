@@ -3397,6 +3397,8 @@ img.u-pull-left {
 .s-intro__content-video-btn {
     height           : calc(1.6875 * var(--space));
     width            : calc(1.6875 * var(--space));
+    color            : white;
+    font-size        : 95vw;
     background-color : #ffca33;
     border-radius    : 50%;
     display          : flex;
