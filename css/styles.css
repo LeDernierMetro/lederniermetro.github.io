@@ -3398,7 +3398,7 @@ img.u-pull-left {
     height           : calc(1.6875 * var(--space));
     width            : calc(1.6875 * var(--space));
     color            : white;
-    font-size        : 3vw;
+    font-size        : 0,3vw;
     background-color : #ffca33;
     border-radius    : 50%;
     display          : flex;
